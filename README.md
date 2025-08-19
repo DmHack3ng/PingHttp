@@ -32,5 +32,7 @@ python3 PingHttp.py
 💡 *Note:* Future versions of **PingHttp** will include **multithreading** support for faster scanning of large domain lists. Stay tuned! 🚀
 
 ---
+## PREVIEW 
+---
 
-👉 Do you want me to also draft a **short tagline/slogan** (like a one-liner under the project name) to make your README punchier?
+<img width="629" height="177" alt="darkshadow" src="https://github.com/user-attachments/assets/547659e6-004c-4179-b4a5-03251c747aa8" />
