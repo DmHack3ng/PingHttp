@@ -35,4 +35,6 @@ python3 PingHttp.py
 ## PREVIEW 
 ---
 
-<img width="629" height="177" alt="darkshadow" src="https://github.com/user-attachments/assets/547659e6-004c-4179-b4a5-03251c747aa8" />
+
+<img width="619" height="196" alt="PingHttp" src="https://github.com/user-attachments/assets/3d596c7f-d9c9-4c01-b1da-37bcaa5239bc" />
+
