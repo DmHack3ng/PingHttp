@@ -8,7 +8,7 @@ It’s simple, straightforward, and easy to use — ideal for quickly testing if
 
 ## ✨ Features
 
-* 🔎 **HTTP status check** – get the exact status code returned by each domain.
+* 🔎 **HTTP/(S) status check** – get the exact status code returned by each domain.
 * ⚡ **Timeout handling** – no more hanging requests, each check respects a timeout.
 * 🛡️ **Error management** – gracefully catches unreachable hosts, connection refusals, and timeouts.
 * 📄 **Readable output** – clean, structured results printed directly in your terminal.
