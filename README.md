@@ -3,7 +3,7 @@
 
 # 🌐 PingHttp
 
-**PingHttp** is a lightweight Python script designed to **check the availability of domains or subdomains over HTTP**.
+**PingHttp** is a lightweight Python script designed to **check the availability of domains or subdomains over HTTP AND HTTPS**.
 It’s simple, straightforward, and easy to use — ideal for quickly testing if a target is up and responding.
 
 ## ✨ Features
